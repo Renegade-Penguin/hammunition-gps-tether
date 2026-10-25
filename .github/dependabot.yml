@@ -9,6 +9,9 @@ updates:
     # waiting a week before proposing it costs nothing.
     cooldown:
       default-days: 7
+    groups:
+      actions:
+        patterns: ["*"]
   - package-ecosystem: pip
     directory: /
     schedule:
