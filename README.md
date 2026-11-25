@@ -146,6 +146,12 @@ The tether comes from [Hammunition](https://github.com/Renegade-Penguin/Hammunit
 If you find Hammunition useful, consider supporting continued development.
 Everything is also collected at **[support.chiefgyk3d.com](https://support.chiefgyk3d.com)**.
 
+<div align="center">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A4E59UP)
+
+</div>
+
 ### Recurring Support
 
 <div align="center">
